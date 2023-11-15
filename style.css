@@ -1,0 +1,7 @@
+.linear-color{
+    background: linear-gradient(120deg, #ffe43f 0%, #FF926B 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+
