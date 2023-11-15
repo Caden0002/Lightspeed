@@ -25,7 +25,3 @@ Current search bar does not search the whole cryptocurrency table but instead ju
 Add Login Page (SQL)<br />
 Add Customer Database (SQL)<br />
 Add DashBoard
-
-
-
->>>>>>> origin/main
